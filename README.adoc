@@ -1,0 +1,13 @@
+= Python Codelib
+:toc:
+:author: Cloudberry Pi Tech
+
+== Project 1: Ultrasonic Obstacle Avoider Robot
+=== Connections
+
+. Trigger pin -> 9
+. Echo Pin -> 10
+. Left Motor Pin 1 -> 11
+. Left Motor Pin 2 -> 12
+. Right Motor Pin 1 -> 13
+. Right Motor Pin 2 -> 8
