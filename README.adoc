@@ -11,3 +11,6 @@
 . Left Motor Pin 2 -> 12
 . Right Motor Pin 1 -> 13
 . Right Motor Pin 2 -> 8
+
+=== Running the code
+To run this code go to the arduino IDE, open the `.ino` file and click on upload code.
